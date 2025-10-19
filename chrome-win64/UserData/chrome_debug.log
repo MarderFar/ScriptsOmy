@@ -1,0 +1,13 @@
+[11220:11908:0922/163342.398:ERROR:ui\gl\direct_composition_support.cc:616] AMD VideoProcessorGetOutputExtension failed: Параметр задан неверно. (0x80070057)
+[5096:8716:0922/163345.151:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[5096:7972:0922/163345.631:ERROR:net\cert\internal\cert_issuer_source_aia.cc:35] Error parsing cert retrieved from AIA (as DER):
+ERROR: Failed parsing Certificate SEQUENCE
+ERROR: Failed parsing Certificate
+
+[5096:7972:0922/163346.360:ERROR:net\cert\internal\cert_issuer_source_aia.cc:35] Error parsing cert retrieved from AIA (as DER):
+ERROR: Failed parsing Certificate SEQUENCE
+ERROR: Failed parsing Certificate
+
+[6424:7504:0922/163354.359:WARNING:net\extras\sqlite\sqlite_persistent_store_backend_base.cc:176] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:226 to client_task_runner_.
+[6424:12408:0922/163354.366:WARNING:net\extras\sqlite\sqlite_persistent_store_backend_base.cc:176] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:226 to client_task_runner_.
+[6424:12408:0922/163354.366:WARNING:net\extras\sqlite\sqlite_persistent_store_backend_base.cc:176] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:226 to client_task_runner_.

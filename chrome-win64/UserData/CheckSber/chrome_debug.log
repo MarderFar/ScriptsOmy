@@ -1,0 +1,13 @@
+[16620:15788:0920/225847.864:ERROR:sandbox\policy\win\sandbox_win.cc:760] Sandbox cannot access executable. Check filesystem permissions are valid. See https://bit.ly/31yqMJR.: Отказано в доступе. (0x5)
+[16620:16688:0920/225847.865:ERROR:chrome\browser\profiles\profile_manager.cc:887] Cannot create profile at path C:\Users\MarderFar\Desktop\chrome-win64\UserData\CheckSber\C:\Users\MarderFar\Desktop\chrome-win64\UserData\CheckSber
+[16620:16688:0920/225847.865:ERROR:chrome\browser\profiles\profile_manager.cc:1685] Cannot create profile at path C:\Users\MarderFar\Desktop\chrome-win64\UserData\CheckSber\C:\Users\MarderFar\Desktop\chrome-win64\UserData\CheckSber
+[16620:16688:0920/225847.915:ERROR:content\browser\network_service_instance_impl.cc:595] Network service crashed, restarting service.
+[17980:14876:0920/225847.942:ERROR:ui\gl\direct_composition_support.cc:616] AMD VideoProcessorGetOutputExtension failed: Параметр задан неверно. (0x80070057)
+[16620:8668:0920/225851.983:ERROR:net\cert\internal\cert_issuer_source_aia.cc:35] Error parsing cert retrieved from AIA (as DER):
+ERROR: Failed parsing Certificate SEQUENCE
+ERROR: Failed parsing Certificate
+
+[16620:8668:0920/225852.052:ERROR:net\cert\internal\cert_issuer_source_aia.cc:35] Error parsing cert retrieved from AIA (as DER):
+ERROR: Failed parsing Certificate SEQUENCE
+ERROR: Failed parsing Certificate
+

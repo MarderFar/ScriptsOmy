@@ -1,0 +1,50 @@
+[15176:8864:0920/231512.907:ERROR:sandbox\policy\win\sandbox_win.cc:760] Sandbox cannot access executable. Check filesystem permissions are valid. See https://bit.ly/31yqMJR.: Отказано в доступе. (0x5)
+[19080:18128:0920/231512.980:ERROR:ui\gl\direct_composition_support.cc:616] AMD VideoProcessorGetOutputExtension failed: Параметр задан неверно. (0x80070057)
+[15176:18460:0920/231513.029:ERROR:content\browser\network_service_instance_impl.cc:595] Network service crashed, restarting service.
+[15176:6776:0920/231516.015:ERROR:net\cert\internal\cert_issuer_source_aia.cc:35] Error parsing cert retrieved from AIA (as DER):
+ERROR: Failed parsing Certificate SEQUENCE
+ERROR: Failed parsing Certificate
+
+[15176:6776:0920/231516.243:ERROR:net\cert\internal\cert_issuer_source_aia.cc:35] Error parsing cert retrieved from AIA (as DER):
+ERROR: Failed parsing Certificate SEQUENCE
+ERROR: Failed parsing Certificate
+
+[15176:6776:0920/231525.528:ERROR:net\cert\internal\cert_issuer_source_aia.cc:136] AiaRequest::OnFetchCompleted got error -7
+[15176:6776:0920/231526.629:ERROR:net\cert\internal\cert_issuer_source_aia.cc:35] Error parsing cert retrieved from AIA (as DER):
+ERROR: Failed parsing Certificate SEQUENCE
+ERROR: Failed parsing Certificate
+
+[15176:6776:0920/231526.630:ERROR:net\cert\internal\cert_issuer_source_aia.cc:35] Error parsing cert retrieved from AIA (as DER):
+ERROR: Failed parsing Certificate SEQUENCE
+ERROR: Failed parsing Certificate
+
+[15176:6776:0920/231535.535:ERROR:net\cert\internal\cert_issuer_source_aia.cc:136] AiaRequest::OnFetchCompleted got error -7
+[14404:10440:0920/231535.535:ERROR:net\socket\ssl_client_socket_impl.cc:915] handshake failed; returned -1, SSL error code 1, net_error -202
+[15176:18460:0920/231543.065:INFO:CONSOLE:222] "Noise was added to a canvas readback. If this has caused breakage, please file a bug at https://issues.chromium.org/issues/new?component=1456351&title=Canvas%20noise%20breakage. This feature can be disabled through chrome://flags/#enable-canvas-noise", source: https://online.sberbank.ru/TSPD/08bd9624b8ab20001f5f5ae0e7a43594e518e22269bf0f504759f117ab1eee6e4f1283022324b922?type=11 (222)
+[17224:18484:0920/231543.089:INFO:third_party\blink\renderer\modules\peerconnection\peer_connection_dependency_factory.cc:924] Running WebRTC with a combined Network and Worker thread.
+[15176:18460:0920/231544.009:INFO:CONSOLE:218] "Noise was added to a canvas readback. If this has caused breakage, please file a bug at https://issues.chromium.org/issues/new?component=1456351&title=Canvas%20noise%20breakage. This feature can be disabled through chrome://flags/#enable-canvas-noise", source: https://online.sberbank.ru/TSPD/08bd9624b8ab20001f5f5ae0e7a43594e518e22269bf0f504759f117ab1eee6e4f1283022324b922?type=11 (218)
+[15176:18460:0920/231544.043:INFO:CONSOLE:405] "The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (https://bit.ly/audio-worklet)", source: https://online.sberbank.ru/TSPD/08bd9624b8ab20001f5f5ae0e7a43594e518e22269bf0f504759f117ab1eee6e4f1283022324b922?type=11 (405)
+[15176:18460:0920/231544.166:WARNING:chrome\browser\media\prefs\capture_device_ranking.h:255] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[15176:18460:0920/231544.166:WARNING:chrome\browser\media\prefs\capture_device_ranking.h:255] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[15176:18460:0920/231544.827:INFO:CONSOLE:849] "Not allowed to load local resource: chrome://rumola/content/rumola48.png", source: https://online.sberbank.ru/TSPD/08bd9624b8ab20001f5f5ae0e7a43594e518e22269bf0f504759f117ab1eee6e4f1283022324b922?type=11 (849)
+[15176:18460:0920/231544.829:INFO:CONSOLE:0] "Mixed Content: The page at 'https://online.sberbank.ru/CSAFront/index.do' was loaded over HTTPS, but requested an insecure element 'http://burp/favicon.ico'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html", source: https://online.sberbank.ru/CSAFront/index.do (0)
+[19412:14124:0920/231546.431:WARNING:services\audio\sync_reader.cc:148] ASR: No room in socket buffer.: Идет закрытие канала. (0xE8)
+[17224:18484:0920/231549.068:INFO:third_party\blink\renderer\modules\peerconnection\peer_connection_dependency_factory.cc:924] Running WebRTC with a combined Network and Worker thread.
+[15176:18460:0920/231549.249:INFO:CONSOLE:1] "[Unallowed Browsers Check] OS: Windows; Browser: Chrome@140.0.0.0", source: https://esa-res.online.sberbank.ru/ESA/sbol/r-88.0.0/unallowedbrowsers.js (1)
+[15176:18460:0920/231551.116:INFO:CONSOLE:1] "[PL] [WebAuthn Support Check] false", source: https://esa-res.online.sberbank.ru/ESA/sbol/r-88.0.0/index.js (1)
+[15176:18460:0920/231551.233:INFO:CONSOLE:1] "Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently", source: https://esa-res.online.sberbank.ru/ESA/bizone/1.7.3/antifraud.min.js (1)
+[15176:18460:0920/231551.329:INFO:CONSOLE:1] "[PL] A new service worker is being installed:  [object ServiceWorker]", source: https://esa-res.online.sberbank.ru/ESA/sbol/r-88.0.0/index.js (1)
+[15176:18460:0920/231551.551:INFO:CONSOLE:1] "[Deprecating Browser Check] OS: Windows; Browser: Chrome@140.0.0.0", source: https://esa-res.online.sberbank.ru/ESA/sbol/r-88.0.0/index.js (1)
+[15176:18460:0920/231552.115:INFO:CONSOLE:1] "[object Object]", source: https://esa-res.online.sberbank.ru/ESA/sbol/r-88.0.0/index.js (1)
+[15176:18460:0920/231552.115:INFO:CONSOLE:1] "Ошибка обработки данных: uri=https://cdnweb.sberbank.ru/greeting/loaders/web_config.json)", source: https://esa-res.online.sberbank.ru/ESA/sbol/r-88.0.0/index.js (1)
+[15176:18460:0920/231552.550:INFO:CONSOLE:32] "[SW] Все критичные файлы теперь в кэше", source: https://online.sberbank.ru/sw.js?csaResUrl=https%253A%252F%252Fesa-res.online.sberbank.ru%252FESA%252Fsbol%252Fr-88.0.0%252F (32)
+[15176:18460:0920/231552.550:INFO:CONSOLE:64] "[SW] Event: Activate", source: https://online.sberbank.ru/sw.js?csaResUrl=https%253A%252F%252Fesa-res.online.sberbank.ru%252FESA%252Fsbol%252Fr-88.0.0%252F (64)
+[15176:18460:0920/231552.550:INFO:CONSOLE:69] "Uncaught (in promise) TypeError: undefined is not iterable (cannot read property Symbol(Symbol.iterator))", source: https://online.sberbank.ru/sw.js?csaResUrl=https%253A%252F%252Fesa-res.online.sberbank.ru%252FESA%252Fsbol%252Fr-88.0.0%252F (69)
+[15176:18460:0920/231554.448:INFO:CONSOLE:3] "Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently", source:  (3)
+[15176:18460:0920/231554.588:WARNING:chrome\browser\media\prefs\capture_device_ranking.h:255] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[15176:18460:0920/231554.588:WARNING:chrome\browser\media\prefs\capture_device_ranking.h:255] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[15176:12584:0920/231559.583:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: PHONE_REGISTRATION_ERROR
+[15176:12584:0920/231559.587:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: PHONE_REGISTRATION_ERROR
+[15176:12584:0920/231559.587:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: PHONE_REGISTRATION_ERROR
+[17224:6652:0920/231608.313:WARNING:third_party\webrtc\media\engine\webrtc_voice_engine.cc:805] Attempting to stop aecdump when no audio processing module is present
+[14404:9920:0920/231620.142:WARNING:net\extras\sqlite\sqlite_persistent_store_backend_base.cc:176] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:226 to client_task_runner_.

@@ -1,0 +1,56 @@
+[15912:17320:0920/230755.177:ERROR:sandbox\policy\win\sandbox_win.cc:760] Sandbox cannot access executable. Check filesystem permissions are valid. See https://bit.ly/31yqMJR.: Отказано в доступе. (0x5)
+[17776:17740:0920/230755.259:ERROR:ui\gl\direct_composition_support.cc:616] AMD VideoProcessorGetOutputExtension failed: Параметр задан неверно. (0x80070057)
+[15912:17920:0920/230755.297:ERROR:content\browser\network_service_instance_impl.cc:595] Network service crashed, restarting service.
+[15912:16688:0920/230758.198:ERROR:net\cert\internal\cert_issuer_source_aia.cc:35] Error parsing cert retrieved from AIA (as DER):
+ERROR: Failed parsing Certificate SEQUENCE
+ERROR: Failed parsing Certificate
+
+[15912:16688:0920/230758.518:ERROR:net\cert\internal\cert_issuer_source_aia.cc:35] Error parsing cert retrieved from AIA (as DER):
+ERROR: Failed parsing Certificate SEQUENCE
+ERROR: Failed parsing Certificate
+
+[15912:16688:0920/230807.802:ERROR:net\cert\internal\cert_issuer_source_aia.cc:136] AiaRequest::OnFetchCompleted got error -7
+[15912:16688:0920/230808.666:ERROR:net\cert\internal\cert_issuer_source_aia.cc:35] Error parsing cert retrieved from AIA (as DER):
+ERROR: Failed parsing Certificate SEQUENCE
+ERROR: Failed parsing Certificate
+
+[15912:16688:0920/230808.666:ERROR:net\cert\internal\cert_issuer_source_aia.cc:35] Error parsing cert retrieved from AIA (as DER):
+ERROR: Failed parsing Certificate SEQUENCE
+ERROR: Failed parsing Certificate
+
+[15912:16688:0920/230817.805:ERROR:net\cert\internal\cert_issuer_source_aia.cc:136] AiaRequest::OnFetchCompleted got error -7
+[10248:12504:0920/230817.805:ERROR:net\socket\ssl_client_socket_impl.cc:915] handshake failed; returned -1, SSL error code 1, net_error -202
+[15912:15168:0920/230822.647:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: PHONE_REGISTRATION_ERROR
+[15912:15168:0920/230822.648:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: PHONE_REGISTRATION_ERROR
+[15912:15168:0920/230822.648:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: PHONE_REGISTRATION_ERROR
+[15912:17920:0920/230826.642:INFO:CONSOLE:222] "Noise was added to a canvas readback. If this has caused breakage, please file a bug at https://issues.chromium.org/issues/new?component=1456351&title=Canvas%20noise%20breakage. This feature can be disabled through chrome://flags/#enable-canvas-noise", source: https://online.sberbank.ru/TSPD/08bd9624b8ab20001f5f5ae0e7a43594e518e22269bf0f504759f117ab1eee6e4f1283022324b922?type=11 (222)
+[16696:18300:0920/230826.665:INFO:third_party\blink\renderer\modules\peerconnection\peer_connection_dependency_factory.cc:924] Running WebRTC with a combined Network and Worker thread.
+[15912:17920:0920/230827.615:INFO:CONSOLE:218] "Noise was added to a canvas readback. If this has caused breakage, please file a bug at https://issues.chromium.org/issues/new?component=1456351&title=Canvas%20noise%20breakage. This feature can be disabled through chrome://flags/#enable-canvas-noise", source: https://online.sberbank.ru/TSPD/08bd9624b8ab20001f5f5ae0e7a43594e518e22269bf0f504759f117ab1eee6e4f1283022324b922?type=11 (218)
+[15912:17920:0920/230827.648:INFO:CONSOLE:405] "The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (https://bit.ly/audio-worklet)", source: https://online.sberbank.ru/TSPD/08bd9624b8ab20001f5f5ae0e7a43594e518e22269bf0f504759f117ab1eee6e4f1283022324b922?type=11 (405)
+[15912:17920:0920/230827.778:WARNING:chrome\browser\media\prefs\capture_device_ranking.h:255] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[15912:17920:0920/230827.778:WARNING:chrome\browser\media\prefs\capture_device_ranking.h:255] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[15912:17920:0920/230828.425:INFO:CONSOLE:849] "Not allowed to load local resource: chrome://rumola/content/rumola48.png", source: https://online.sberbank.ru/TSPD/08bd9624b8ab20001f5f5ae0e7a43594e518e22269bf0f504759f117ab1eee6e4f1283022324b922?type=11 (849)
+[15912:17920:0920/230828.427:INFO:CONSOLE:0] "Mixed Content: The page at 'https://online.sberbank.ru/CSAFront/index.do' was loaded over HTTPS, but requested an insecure element 'http://burp/favicon.ico'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html", source: https://online.sberbank.ru/CSAFront/index.do (0)
+[16696:18300:0920/230830.850:INFO:third_party\blink\renderer\modules\peerconnection\peer_connection_dependency_factory.cc:924] Running WebRTC with a combined Network and Worker thread.
+[15912:17920:0920/230831.095:INFO:CONSOLE:1] "[Unallowed Browsers Check] OS: Windows; Browser: Chrome@140.0.0.0", source: https://esa-res.online.sberbank.ru/ESA/sbol/r-88.0.0/unallowedbrowsers.js (1)
+[15912:17920:0920/230831.208:INFO:CONSOLE:1] "Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently", source: https://esa-res.online.sberbank.ru/ESA/bizone/1.7.3/antifraud.min.js (1)
+[15912:17920:0920/230831.228:INFO:CONSOLE:1] "[PL] [WebAuthn Support Check] false", source: https://esa-res.online.sberbank.ru/ESA/sbol/r-88.0.0/index.js (1)
+[15912:17920:0920/230831.468:INFO:CONSOLE:1] "[PL] A new service worker is being installed:  [object ServiceWorker]", source: https://esa-res.online.sberbank.ru/ESA/sbol/r-88.0.0/index.js (1)
+[15912:17920:0920/230831.638:INFO:CONSOLE:1] "[Deprecating Browser Check] OS: Windows; Browser: Chrome@140.0.0.0", source: https://esa-res.online.sberbank.ru/ESA/sbol/r-88.0.0/index.js (1)
+[15912:17920:0920/230832.201:INFO:CONSOLE:32] "[SW] Все критичные файлы теперь в кэше", source: https://online.sberbank.ru/sw.js?csaResUrl=https%253A%252F%252Fesa-res.online.sberbank.ru%252FESA%252Fsbol%252Fr-88.0.0%252F (32)
+[15912:17920:0920/230832.201:INFO:CONSOLE:64] "[SW] Event: Activate", source: https://online.sberbank.ru/sw.js?csaResUrl=https%253A%252F%252Fesa-res.online.sberbank.ru%252FESA%252Fsbol%252Fr-88.0.0%252F (64)
+[15912:17920:0920/230832.202:INFO:CONSOLE:69] "Uncaught (in promise) TypeError: undefined is not iterable (cannot read property Symbol(Symbol.iterator))", source: https://online.sberbank.ru/sw.js?csaResUrl=https%253A%252F%252Fesa-res.online.sberbank.ru%252FESA%252Fsbol%252Fr-88.0.0%252F (69)
+[15912:17920:0920/230832.819:INFO:CONSOLE:3] "Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently", source:  (3)
+[15912:17920:0920/230832.932:WARNING:chrome\browser\media\prefs\capture_device_ranking.h:255] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[15912:17920:0920/230832.932:WARNING:chrome\browser\media\prefs\capture_device_ranking.h:255] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[15912:15168:0920/230845.348:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[16696:17604:0920/230855.993:WARNING:third_party\webrtc\media\engine\webrtc_voice_engine.cc:805] Attempting to stop aecdump when no audio processing module is present
+[15912:16688:0920/230925.445:ERROR:net\cert\internal\cert_issuer_source_aia.cc:35] Error parsing cert retrieved from AIA (as DER):
+ERROR: Failed parsing Certificate SEQUENCE
+ERROR: Failed parsing Certificate
+
+[15912:16688:0920/230925.445:ERROR:net\cert\internal\cert_issuer_source_aia.cc:35] Error parsing cert retrieved from AIA (as DER):
+ERROR: Failed parsing Certificate SEQUENCE
+ERROR: Failed parsing Certificate
+
+[15844:16396:0920/230931.612:ERROR:gpu\ipc\client\command_buffer_proxy_impl.cc:327] GPU state invalid after WaitForGetOffsetInRange.

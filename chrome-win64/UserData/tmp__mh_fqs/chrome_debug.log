@@ -1,0 +1,24 @@
+[16992:16504:0920/231424.939:ERROR:sandbox\policy\win\sandbox_win.cc:760] Sandbox cannot access executable. Check filesystem permissions are valid. See https://bit.ly/31yqMJR.: Отказано в доступе. (0x5)
+[17664:10052:0920/231425.025:ERROR:ui\gl\direct_composition_support.cc:616] AMD VideoProcessorGetOutputExtension failed: Параметр задан неверно. (0x80070057)
+[16992:14300:0920/231425.079:ERROR:content\browser\network_service_instance_impl.cc:595] Network service crashed, restarting service.
+[7868:12592:0920/231426.390:WARNING:net\spdy\spdy_session.cc:3074] Received HEADERS for invalid stream 1
+[7868:12592:0920/231426.724:WARNING:net\spdy\spdy_session.cc:3074] Received HEADERS for invalid stream 3
+[16992:18524:0920/231427.490:ERROR:net\cert\internal\cert_issuer_source_aia.cc:35] Error parsing cert retrieved from AIA (as DER):
+ERROR: Failed parsing Certificate SEQUENCE
+ERROR: Failed parsing Certificate
+
+[16992:18524:0920/231427.490:ERROR:net\cert\internal\cert_issuer_source_aia.cc:35] Error parsing cert retrieved from AIA (as DER):
+ERROR: Failed parsing Certificate SEQUENCE
+ERROR: Failed parsing Certificate
+
+[16992:18524:0920/231437.063:ERROR:net\cert\internal\cert_issuer_source_aia.cc:136] AiaRequest::OnFetchCompleted got error -7
+[16992:18524:0920/231437.411:ERROR:net\cert\internal\cert_issuer_source_aia.cc:35] Error parsing cert retrieved from AIA (as DER):
+ERROR: Failed parsing Certificate SEQUENCE
+ERROR: Failed parsing Certificate
+
+[16992:18524:0920/231437.412:ERROR:net\cert\internal\cert_issuer_source_aia.cc:35] Error parsing cert retrieved from AIA (as DER):
+ERROR: Failed parsing Certificate SEQUENCE
+ERROR: Failed parsing Certificate
+
+[7868:12504:0920/231446.594:WARNING:net\extras\sqlite\sqlite_persistent_store_backend_base.cc:176] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:226 to client_task_runner_.
+[7868:12504:0920/231446.594:WARNING:net\extras\sqlite\sqlite_persistent_store_backend_base.cc:176] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:226 to client_task_runner_.
